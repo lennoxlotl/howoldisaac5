@@ -23,6 +23,17 @@ body {
     font-size: 3vw;
 }
 
-.as_days {
+.as-days {
     font-size: 2vw;
+}
+
+.static-footer {
+    position: absolute;
+    bottom: 6px;
+    left: 6px;
+}
+
+.static-link {
+    color: white !important;
+    text-decoration: none !important;
 }
