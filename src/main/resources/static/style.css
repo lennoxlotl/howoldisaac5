@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+}
+
+body {
+    background: black !important;
+    color: white !important;
+}
+
+.content {
+    height: 100% !important;
+    width: 100% !important;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    position: fixed;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+}
+
+.age {
+    font-size: 3vw;
+}
+
+.as_days {
+    font-size: 2vw;
+}
