@@ -11,6 +11,5 @@ The website for https://howioldissaac5.today
  - Open the project in IntelliJ as gradle project
  - Simply execute the bootJar task
 
-Code Conventions
-
+## Code Conventions
 We use Google Code Conventions with 2 spacings, please keep that in mind while contributing.
